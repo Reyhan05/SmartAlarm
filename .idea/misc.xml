@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/bg_gradient.xml" value="0.2484375" />
+        <entry key="app/src/main/res/drawable/bg_rounded_blue.xml" value="0.24895833333333334" />
+        <entry key="app/src/main/res/drawable/bg_rounded_gradient_orange.xml" value="0.23148148148148148" />
+        <entry key="app/src/main/res/drawable/bg_rounded_gradient_purple.xml" value="0.23148148148148148" />
+        <entry key="app/src/main/res/drawable/bg_rounded_white.xml" value="0.23148148148148148" />
+        <entry key="app/src/main/res/drawable/bg_rounded_white_stroke.xml" value="0.24895833333333334" />
+        <entry key="app/src/main/res/drawable/switch_thumb.xml" value="0.23148148148148148" />
+        <entry key="app/src/main/res/drawable/switch_track.xml" value="0.23148148148148148" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.17558886509635974" />
+        <entry key="app/src/main/res/layout/activity_one_time_alarm.xml" value="0.2803402375548309" />
+        <entry key="app/src/main/res/layout/activity_repeating_alarm.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/item_row_reminder_alarm.xml" value="0.23229166666666667" />
+        <entry key="app/src/main/res/layout/row_item_alarm.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressKotlinCodeStyleNotification">
+    <option name="disableForAll" value="true" />
+  </component>
+</project>
